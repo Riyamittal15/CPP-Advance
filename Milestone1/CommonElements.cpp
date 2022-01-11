@@ -45,7 +45,8 @@ class Solution
 
 int main ()
 {
-    int t; cin >> t;
+    int t; 
+    cin >> t;
     while (t--)
     {
         int n1, n2, n3; 
